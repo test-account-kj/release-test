@@ -1,5 +1,5 @@
-# release-test
+# Release Test
 
-Scratch repo used to validate synthetic-query Task 2.
+This repo exists to test workflows.
 
-revision: 3
+bye world from the README.
